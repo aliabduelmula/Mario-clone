@@ -1,0 +1,6 @@
+We all contributed to the project equally and did all our parts as planned.
+Ibraheem Aloran worked on the procedural level generation and making the 5 enemies, including making the prefabs and writing their scripts
+Musbah Khalaff worked on making the player and the collectables, including making the prefabs and writing their scripts.
+Ahmad Alghizi worked on the power ups and making the in-game display to display all the information and buttons, including making the prefabs and writing their scripts.
+Ali Abduelmula worked on the design and development of the boss and helped with making the enemies, including making the prefabs and scripts
+Sanad Ali worked on making the platforms and and the flow of scenes between the main menu and the other scenes, including making the prefabs and script
